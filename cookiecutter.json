@@ -1,0 +1,8 @@
+{
+    "project_name": "flask-api",
+    "author_name": "Vineet Verma",
+    "database_name": "JsonRepo",
+    "collection_name": "JsonFiles",
+    "folder_path": "jsonFiles"
+  }
+  
